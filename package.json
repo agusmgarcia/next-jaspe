@@ -1,0 +1,29 @@
+{
+  "name": "@agusmgarcia/next-jaspe",
+  "core": "app",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Agus Garcia",
+  "description": "",
+  "scripts": {
+    "build": "react-essentials-commands-build",
+    "check": "react-essentials-commands-check",
+    "deploy": "react-essentials-commands-deploy",
+    "format": "react-essentials-commands-format",
+    "regenerate": "react-essentials-commands-regenerate",
+    "start": "react-essentials-commands-start",
+    "test": "react-essentials-commands-test"
+  },
+  "dependencies": {
+    "@agusmgarcia/react-essentials-utils": "^0.16.0",
+    "next": "^16.2.9",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@agusmgarcia/react-essentials-commands": "^0.17.0"
+  },
+  "engines": {
+    "node": "22.16.0"
+  }
+}
