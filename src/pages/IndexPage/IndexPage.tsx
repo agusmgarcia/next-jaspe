@@ -82,6 +82,10 @@ export default function IndexPage(props: IndexPageProps) {
             {loading ? "Generando imagen..." : "Generar imagen"}
           </button>
         </form>
+
+        <div className="fixed right-4 bottom-4">
+          <p className="font-cinzel text-sm">v{process.env["APP_VERSION"]}</p>
+        </div>
       </div>
 
       <div ref={viewerRef} className="fixed top-0 left-[100vw] overflow-hidden">
