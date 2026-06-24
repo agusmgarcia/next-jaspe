@@ -17,6 +17,13 @@ export default function useIndexPage(props: IndexPageProps) {
     title: "",
   });
 
+  const style = useMemo(
+    () => ({
+      backgroundColor: `${constants.STONES[values.stoneId].background}15`,
+    }),
+    [values.stoneId],
+  );
+
   const submitStyles = useMemo(
     () => ({
       backgroundColor: constants.STONES[values.stoneId].background,
@@ -88,6 +95,7 @@ export default function useIndexPage(props: IndexPageProps) {
     handleSubmit,
     loading,
     stones,
+    style,
     submitDisabled,
     submitStyles,
     values,
