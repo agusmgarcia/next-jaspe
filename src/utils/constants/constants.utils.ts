@@ -80,6 +80,13 @@ export const STONES: Record<
     logo: "black",
     path: "/dww6bbegqb2ot7dfsasw.jpg",
   },
+  sodalite: {
+    background: "#253668",
+    foreground: "white",
+    label: "Sodalita",
+    logo: "white",
+    path: "/tyzl9qforcsej5gta2c1.jpg",
+  },
   tigerEye: {
     background: "#b56917",
     foreground: "white",

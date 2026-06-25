@@ -9,6 +9,7 @@ export type StoneVariant =
   | "lapislazuli"
   | "obsidian"
   | "roseQuartz"
+  | "sodalite"
   | "tigerEye"
   | "tourmaline";
 
