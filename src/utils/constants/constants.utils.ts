@@ -10,6 +10,13 @@ export const STONES: Record<
     path: string;
   }
 > = {
+  aquamarine: {
+    background: "#7fffd4",
+    foreground: "black",
+    label: "Aguamarina",
+    logo: "white",
+    path: "/q2ahrhcmfymfjlignbmz.jpg",
+  },
   obsidian: {
     background: "#2e3134",
     foreground: "white",
