@@ -24,6 +24,13 @@ export const STONES: Record<
     logo: "white",
     path: "/q2ahrhcmfymfjlignbmz.jpg",
   },
+  blueQuartz: {
+    background: "#274374",
+    foreground: "white",
+    label: "Cuarzo azul",
+    logo: "white",
+    path: "/canetuqve4e6rutxc8cp.webp",
+  },
   citrine: {
     background: "#e4d00a",
     foreground: "black",
