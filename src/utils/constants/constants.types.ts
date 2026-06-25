@@ -3,6 +3,7 @@ export type StoneVariant =
   | "aquamarine"
   | "obsidian"
   | "roseQuartz"
+  | "tigerEye"
   | "tourmaline";
 
 export type LogoVariant = "black" | "white";

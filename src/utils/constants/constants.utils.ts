@@ -38,6 +38,13 @@ export const STONES: Record<
     logo: "black",
     path: "/dww6bbegqb2ot7dfsasw.jpg",
   },
+  tigerEye: {
+    background: "#b56917",
+    foreground: "white",
+    label: "Ojo de tigre",
+    logo: "white",
+    path: "/wchxprml6miv4y77pkok.jpg",
+  },
   tourmaline: {
     background: "#2c2526",
     foreground: "white",
