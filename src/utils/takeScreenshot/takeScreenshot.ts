@@ -17,6 +17,7 @@ export default async function takeScreenshot(input: Input): Promise<Output> {
   const canvas = await html2canvas(input.element, {
     allowTaint: false,
     height: input.element.scrollHeight,
+    scale: 1,
     useCORS: true,
     width: input.element.scrollWidth,
   });
