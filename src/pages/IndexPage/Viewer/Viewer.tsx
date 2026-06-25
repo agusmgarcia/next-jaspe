@@ -14,7 +14,7 @@ export default function Viewer(props: ViewerProps) {
 
       <div className="absolute inset-0 flex items-center justify-center">
         <div
-          className="flex w-5/6 flex-col items-center gap-4 rounded-2xl px-4 pt-0 pb-12"
+          className="flex w-5/6 flex-col items-center gap-5 rounded-2xl px-4 pt-0 pb-12"
           style={{ backgroundColor: "rgba(255, 255, 255, 0.75)" }}
         >
           <h2 className="font-cinzel text-6xl font-medium tracking-wider uppercase">
