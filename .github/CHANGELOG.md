@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.3.0](https://github.com/agusmgarcia/next-jaspe/tree/v0.3.0)
+
+> June 25, 2026
+
+### Features ✅
+
+- add pyrite value
+- add carnelian value
+- add sodalite value
+- **IndexPage**: sort stones by label
+- add flourite value
+- add lapislazuli value
+- add blueQuartz value
+- add crystalQuartz value
+- add howlite value
+- add citrine value
+- add tigerEye value
+- add amethyst value
+- add tourmaline value
+- add aquamarine value
+
+### Fixes 🎯
+
+- adjust scale to 1
+
 ## [v0.2.1](https://github.com/agusmgarcia/next-jaspe/tree/v0.2.1)
 
 > June 25, 2026
