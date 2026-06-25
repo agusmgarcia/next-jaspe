@@ -10,6 +10,13 @@ export const STONES: Record<
     path: string;
   }
 > = {
+  amethyst: {
+    background: "#9966cc",
+    foreground: "white",
+    label: "Amatista",
+    logo: "white",
+    path: "/xymcdw5lwv3ye3qhrd7a.jpg",
+  },
   aquamarine: {
     background: "#7fffd4",
     foreground: "black",

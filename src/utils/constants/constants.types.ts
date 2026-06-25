@@ -1,4 +1,5 @@
 export type StoneVariant =
+  | "amethyst"
   | "aquamarine"
   | "obsidian"
   | "roseQuartz"
