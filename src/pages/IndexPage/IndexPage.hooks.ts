@@ -1,3 +1,4 @@
+import { sorts } from "@agusmgarcia/react-essentials-utils";
 import { useCallback, useMemo, useRef, useState } from "react";
 
 import { constants, downloadFile, takeScreenshot } from "#src/utils";
@@ -50,10 +51,13 @@ export default function useIndexPage(props: IndexPageProps) {
 
   const stones = useMemo(
     () =>
-      Object.keys(constants.STONES).map((stoneId) => ({
-        id: stoneId,
-        label: constants.STONES[stoneId as keyof typeof constants.STONES].label,
-      })),
+      Object.keys(constants.STONES)
+        .map((stoneId) => ({
+          id: stoneId,
+          label:
+            constants.STONES[stoneId as keyof typeof constants.STONES].label,
+        }))
+        .sort((s1, s2) => sorts.byStringAsc(s1.label, s2.label)),
     [],
   );
 
