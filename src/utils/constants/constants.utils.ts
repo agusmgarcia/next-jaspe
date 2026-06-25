@@ -31,6 +31,13 @@ export const STONES: Record<
     logo: "white",
     path: "/si6tgggsch6vsbkzmvw2.jpg",
   },
+  howlite: {
+    background: "#f9fbfb",
+    foreground: "black",
+    label: "Howlita",
+    logo: "black",
+    path: "/rk0uykp6mqmi45weh5hr.jpg",
+  },
   obsidian: {
     background: "#2e3134",
     foreground: "white",

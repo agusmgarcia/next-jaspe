@@ -2,6 +2,7 @@ export type StoneVariant =
   | "amethyst"
   | "aquamarine"
   | "citrine"
+  | "howlite"
   | "obsidian"
   | "roseQuartz"
   | "tigerEye"
