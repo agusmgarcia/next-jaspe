@@ -31,6 +31,13 @@ export const STONES: Record<
     logo: "black",
     path: "/dww6bbegqb2ot7dfsasw.jpg",
   },
+  tourmaline: {
+    background: "#2c2526",
+    foreground: "white",
+    label: "Turmalina",
+    logo: "white",
+    path: "/it8iu2m6fggwiqi1gtx4.jpg",
+  },
 };
 
 export const LOGO_PATHS: Record<LogoVariant, string> = {
