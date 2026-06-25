@@ -4,6 +4,7 @@ export type StoneVariant =
   | "blueQuartz"
   | "citrine"
   | "crystalQuartz"
+  | "fluorite"
   | "howlite"
   | "lapislazuli"
   | "obsidian"

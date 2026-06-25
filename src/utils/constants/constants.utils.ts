@@ -45,6 +45,13 @@ export const STONES: Record<
     logo: "black",
     path: "/wowulhc1tgldrcbcvwyh.jpg",
   },
+  fluorite: {
+    background: "#699158",
+    foreground: "white",
+    label: "Fluorita",
+    logo: "white",
+    path: "/wwt5cjf3830b6fhzt1qg.jpg",
+  },
   howlite: {
     background: "#f9fbfb",
     foreground: "black",
