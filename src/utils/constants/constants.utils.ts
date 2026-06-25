@@ -80,6 +80,13 @@ export const STONES: Record<
     logo: "white",
     path: "/yw278nd3zfn6s9r2euay.jpg",
   },
+  pyrite: {
+    background: "#ac9362",
+    foreground: "white",
+    label: "Pirita",
+    logo: "white",
+    path: "/lvmqcbfyvzrnw91plcrn.jpg",
+  },
   roseQuartz: {
     background: "#f7cac9",
     foreground: "black",
