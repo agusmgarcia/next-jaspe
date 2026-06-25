@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.2.1](https://github.com/agusmgarcia/next-jaspe/tree/v0.2.1)
+
+> June 25, 2026
+
+### Fixes 🎯
+
+- **IndexPage**: adjust space between title and description
+
 ## [v0.2.0](https://github.com/agusmgarcia/next-jaspe/tree/v0.2.0)
 
 > June 25, 2026
