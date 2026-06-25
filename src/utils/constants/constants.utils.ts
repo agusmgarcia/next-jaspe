@@ -31,6 +31,13 @@ export const STONES: Record<
     logo: "white",
     path: "/canetuqve4e6rutxc8cp.webp",
   },
+  carnelian: {
+    background: "#b31b1b",
+    foreground: "white",
+    label: "Agata cornalina",
+    logo: "white",
+    path: "/sugvmoqiif83kkdhpwgy.jpg",
+  },
   citrine: {
     background: "#e4d00a",
     foreground: "black",
