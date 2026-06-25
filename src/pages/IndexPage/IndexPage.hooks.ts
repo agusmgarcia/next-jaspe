@@ -81,7 +81,7 @@ export default function useIndexPage(props: IndexPageProps) {
       setLoading(true);
       try {
         const blob = await takeScreenshot({ element });
-        downloadFile({ blob, name: "output.webp" });
+        await downloadFile({ blob, name: "output.webp" });
       } finally {
         setLoading(false);
       }
