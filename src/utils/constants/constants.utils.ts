@@ -31,6 +31,13 @@ export const STONES: Record<
     logo: "white",
     path: "/si6tgggsch6vsbkzmvw2.jpg",
   },
+  crystalQuartz: {
+    background: "#f5f5f5",
+    foreground: "black",
+    label: "Cuarzo cristal",
+    logo: "black",
+    path: "/wowulhc1tgldrcbcvwyh.jpg",
+  },
   howlite: {
     background: "#f9fbfb",
     foreground: "black",
