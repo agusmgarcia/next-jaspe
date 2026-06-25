@@ -24,6 +24,13 @@ export const STONES: Record<
     logo: "white",
     path: "/q2ahrhcmfymfjlignbmz.jpg",
   },
+  citrine: {
+    background: "#e4d00a",
+    foreground: "black",
+    label: "Citrino",
+    logo: "white",
+    path: "/si6tgggsch6vsbkzmvw2.jpg",
+  },
   obsidian: {
     background: "#2e3134",
     foreground: "white",
