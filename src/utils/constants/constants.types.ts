@@ -5,6 +5,7 @@ export type StoneVariant =
   | "citrine"
   | "crystalQuartz"
   | "howlite"
+  | "lapislazuli"
   | "obsidian"
   | "roseQuartz"
   | "tigerEye"

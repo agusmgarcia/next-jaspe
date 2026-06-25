@@ -52,6 +52,13 @@ export const STONES: Record<
     logo: "black",
     path: "/rk0uykp6mqmi45weh5hr.jpg",
   },
+  lapislazuli: {
+    background: "#26619c",
+    foreground: "white",
+    label: "Lapislázuli",
+    logo: "white",
+    path: "/nosxpkaohdyvv476ssjx.jpg",
+  },
   obsidian: {
     background: "#2e3134",
     foreground: "white",
