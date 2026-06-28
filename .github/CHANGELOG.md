@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.4.0](https://github.com/agusmgarcia/next-jaspe/tree/v0.4.0)
+
+> June 28, 2026
+
+### Features ✅
+
+- **Image**: add modifiers
+- add amazonite value
+
+### Chores ⚙️
+
+- uppercase background colors
+
 ## [v0.3.0](https://github.com/agusmgarcia/next-jaspe/tree/v0.3.0)
 
 > June 25, 2026
