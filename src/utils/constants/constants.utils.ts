@@ -10,6 +10,13 @@ export const STONES: Record<
     path: string;
   }
 > = {
+  amazonite: {
+    background: "#76babd",
+    foreground: "black",
+    label: "Amazonita",
+    logo: "white",
+    path: "/vgvit2s6hryuwiibdmkw.jpg",
+  },
   amethyst: {
     background: "#9966cc",
     foreground: "white",
