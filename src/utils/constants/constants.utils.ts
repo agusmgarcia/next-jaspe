@@ -16,7 +16,7 @@ export const STONES: Record<
   }
 > = {
   amazonite: {
-    background: "#76babd",
+    background: "#76BABD",
     foreground: "black",
     label: "Amazonita",
     logo: "white",
@@ -24,7 +24,7 @@ export const STONES: Record<
     path: "/vgvit2s6hryuwiibdmkw.jpg",
   },
   amethyst: {
-    background: "#9966cc",
+    background: "#9966CC",
     foreground: "white",
     label: "Amatista",
     logo: "white",
@@ -32,7 +32,7 @@ export const STONES: Record<
     path: "/xymcdw5lwv3ye3qhrd7a.jpg",
   },
   aquamarine: {
-    background: "#7fffd4",
+    background: "#7FFFD4",
     foreground: "black",
     label: "Aguamarina",
     logo: "white",
@@ -48,7 +48,7 @@ export const STONES: Record<
     path: "/canetuqve4e6rutxc8cp.webp",
   },
   carnelian: {
-    background: "#b31b1b",
+    background: "#B31B1B",
     foreground: "white",
     label: "Agata cornalina",
     logo: "white",
@@ -56,7 +56,7 @@ export const STONES: Record<
     path: "/sugvmoqiif83kkdhpwgy.jpg",
   },
   citrine: {
-    background: "#e4d00a",
+    background: "#E4D00A",
     foreground: "black",
     label: "Citrino",
     logo: "white",
@@ -64,7 +64,7 @@ export const STONES: Record<
     path: "/si6tgggsch6vsbkzmvw2.jpg",
   },
   crystalQuartz: {
-    background: "#f5f5f5",
+    background: "#F5F5F5",
     foreground: "black",
     label: "Cuarzo cristal",
     logo: "black",
@@ -80,7 +80,7 @@ export const STONES: Record<
     path: "/wwt5cjf3830b6fhzt1qg.jpg",
   },
   howlite: {
-    background: "#f9fbfb",
+    background: "#F9FBFB",
     foreground: "black",
     label: "Howlita",
     logo: "black",
@@ -88,7 +88,7 @@ export const STONES: Record<
     path: "/rk0uykp6mqmi45weh5hr.jpg",
   },
   lapislazuli: {
-    background: "#26619c",
+    background: "#26619C",
     foreground: "white",
     label: "Lapislázuli",
     logo: "white",
@@ -96,7 +96,7 @@ export const STONES: Record<
     path: "/nosxpkaohdyvv476ssjx.jpg",
   },
   obsidian: {
-    background: "#2e3134",
+    background: "#2E3134",
     foreground: "white",
     label: "Obsidiana",
     logo: "white",
@@ -104,7 +104,7 @@ export const STONES: Record<
     path: "/yw278nd3zfn6s9r2euay.jpg",
   },
   pyrite: {
-    background: "#ac9362",
+    background: "#AC9362",
     foreground: "white",
     label: "Pirita",
     logo: "white",
@@ -112,7 +112,7 @@ export const STONES: Record<
     path: "/lvmqcbfyvzrnw91plcrn.jpg",
   },
   roseQuartz: {
-    background: "#f7cac9",
+    background: "#F7CAC9",
     foreground: "black",
     label: "Cuarzo rosa",
     logo: "black",
@@ -128,7 +128,7 @@ export const STONES: Record<
     path: "/tyzl9qforcsej5gta2c1.jpg",
   },
   tigerEye: {
-    background: "#b56917",
+    background: "#B56917",
     foreground: "white",
     label: "Ojo de tigre",
     logo: "white",
@@ -136,7 +136,7 @@ export const STONES: Record<
     path: "/wchxprml6miv4y77pkok.jpg",
   },
   tourmaline: {
-    background: "#2c2526",
+    background: "#2C2526",
     foreground: "white",
     label: "Turmalina",
     logo: "white",
