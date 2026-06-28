@@ -16,4 +16,6 @@ export type StoneVariant =
   | "tigerEye"
   | "tourmaline";
 
+export type ModifiersVariant = "e_improve";
+
 export type LogoVariant = "black" | "white";

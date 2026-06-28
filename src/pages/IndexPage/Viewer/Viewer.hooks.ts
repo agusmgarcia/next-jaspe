@@ -20,6 +20,7 @@ export default function useViewer({
   const background = useMemo(
     () => ({
       height: dimensions.height,
+      modifiers: constants.STONES[stoneIdFromProps].modifiers,
       src: constants.STONES[stoneIdFromProps].path,
       width: dimensions.width,
     }),

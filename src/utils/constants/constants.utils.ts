@@ -1,4 +1,8 @@
-import { type LogoVariant, type StoneVariant } from "./constants.types";
+import {
+  type LogoVariant,
+  type ModifiersVariant,
+  type StoneVariant,
+} from "./constants.types";
 
 export const STONES: Record<
   StoneVariant,
@@ -7,6 +11,7 @@ export const STONES: Record<
     foreground: string;
     label: string;
     logo: LogoVariant;
+    modifiers: ModifiersVariant[];
     path: string;
   }
 > = {
@@ -15,6 +20,7 @@ export const STONES: Record<
     foreground: "black",
     label: "Amazonita",
     logo: "white",
+    modifiers: ["e_improve"],
     path: "/vgvit2s6hryuwiibdmkw.jpg",
   },
   amethyst: {
@@ -22,6 +28,7 @@ export const STONES: Record<
     foreground: "white",
     label: "Amatista",
     logo: "white",
+    modifiers: [],
     path: "/xymcdw5lwv3ye3qhrd7a.jpg",
   },
   aquamarine: {
@@ -29,6 +36,7 @@ export const STONES: Record<
     foreground: "black",
     label: "Aguamarina",
     logo: "white",
+    modifiers: [],
     path: "/q2ahrhcmfymfjlignbmz.jpg",
   },
   blueQuartz: {
@@ -36,6 +44,7 @@ export const STONES: Record<
     foreground: "white",
     label: "Cuarzo azul",
     logo: "white",
+    modifiers: [],
     path: "/canetuqve4e6rutxc8cp.webp",
   },
   carnelian: {
@@ -43,6 +52,7 @@ export const STONES: Record<
     foreground: "white",
     label: "Agata cornalina",
     logo: "white",
+    modifiers: [],
     path: "/sugvmoqiif83kkdhpwgy.jpg",
   },
   citrine: {
@@ -50,6 +60,7 @@ export const STONES: Record<
     foreground: "black",
     label: "Citrino",
     logo: "white",
+    modifiers: [],
     path: "/si6tgggsch6vsbkzmvw2.jpg",
   },
   crystalQuartz: {
@@ -57,6 +68,7 @@ export const STONES: Record<
     foreground: "black",
     label: "Cuarzo cristal",
     logo: "black",
+    modifiers: [],
     path: "/wowulhc1tgldrcbcvwyh.jpg",
   },
   fluorite: {
@@ -64,6 +76,7 @@ export const STONES: Record<
     foreground: "white",
     label: "Fluorita",
     logo: "white",
+    modifiers: [],
     path: "/wwt5cjf3830b6fhzt1qg.jpg",
   },
   howlite: {
@@ -71,6 +84,7 @@ export const STONES: Record<
     foreground: "black",
     label: "Howlita",
     logo: "black",
+    modifiers: [],
     path: "/rk0uykp6mqmi45weh5hr.jpg",
   },
   lapislazuli: {
@@ -78,6 +92,7 @@ export const STONES: Record<
     foreground: "white",
     label: "Lapislázuli",
     logo: "white",
+    modifiers: [],
     path: "/nosxpkaohdyvv476ssjx.jpg",
   },
   obsidian: {
@@ -85,6 +100,7 @@ export const STONES: Record<
     foreground: "white",
     label: "Obsidiana",
     logo: "white",
+    modifiers: [],
     path: "/yw278nd3zfn6s9r2euay.jpg",
   },
   pyrite: {
@@ -92,6 +108,7 @@ export const STONES: Record<
     foreground: "white",
     label: "Pirita",
     logo: "white",
+    modifiers: [],
     path: "/lvmqcbfyvzrnw91plcrn.jpg",
   },
   roseQuartz: {
@@ -99,6 +116,7 @@ export const STONES: Record<
     foreground: "black",
     label: "Cuarzo rosa",
     logo: "black",
+    modifiers: [],
     path: "/dww6bbegqb2ot7dfsasw.jpg",
   },
   sodalite: {
@@ -106,6 +124,7 @@ export const STONES: Record<
     foreground: "white",
     label: "Sodalita",
     logo: "white",
+    modifiers: [],
     path: "/tyzl9qforcsej5gta2c1.jpg",
   },
   tigerEye: {
@@ -113,6 +132,7 @@ export const STONES: Record<
     foreground: "white",
     label: "Ojo de tigre",
     logo: "white",
+    modifiers: [],
     path: "/wchxprml6miv4y77pkok.jpg",
   },
   tourmaline: {
@@ -120,6 +140,7 @@ export const STONES: Record<
     foreground: "white",
     label: "Turmalina",
     logo: "white",
+    modifiers: [],
     path: "/it8iu2m6fggwiqi1gtx4.jpg",
   },
 };
