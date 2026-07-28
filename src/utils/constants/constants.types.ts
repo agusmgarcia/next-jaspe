@@ -12,6 +12,7 @@ export type StoneVariant =
   | "obsidian"
   | "pyrite"
   | "roseQuartz"
+  | "selenite"
   | "sodalite"
   | "tigerEye"
   | "tourmaline";

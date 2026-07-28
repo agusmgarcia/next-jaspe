@@ -119,6 +119,14 @@ export const STONES: Record<
     modifiers: [],
     path: "/dww6bbegqb2ot7dfsasw.jpg",
   },
+  selenite: {
+    background: "#F2F2F2",
+    foreground: "black",
+    label: "Selenita",
+    logo: "black",
+    modifiers: [],
+    path: "/cm4vvz7ktpmybudgsksk.jpg",
+  },
   sodalite: {
     background: "#253668",
     foreground: "white",
